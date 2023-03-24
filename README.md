@@ -1,0 +1,2 @@
+# SDLC
+yazılım yaşam döngüleri
